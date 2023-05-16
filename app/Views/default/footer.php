@@ -52,7 +52,7 @@
                               <li>
                                 <a href="#"><img src="<?php echo base_url();?>/public/assets/icon/email.png" alt="#" /></a>info@megamind.com</li>
                                 <li>
-                                  <a href="#"><img src="<?php echo base_url();?>/public/assets/icon/call.png" alt="#" /></a>+91 98199 13340 <br/>+91 93225 94735 </li>
+                                  <a href="#"><img src="<?php echo base_url();?>/public/assets/icon/call.png" alt="#" /></a>+91 98199 13340 <br/></li>
                                 </ul>
                           </div>
                         </div>

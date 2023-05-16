@@ -33,7 +33,6 @@
           <hr/>
           <h3 style="color: #0054af;"><i class="fa fa-phone" aria-hidden="true"></i>&nbsp;&nbsp;&nbsp;Phone:</h3>
           <h6>+91 98199 13340</h6>
-          <h6>+91 93225 94735</h6>
           <hr/>
           <!--<h3 style="color: #0054af;">Follow us:</h3>
            <ul class="social_link"> 
